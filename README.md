@@ -19,4 +19,8 @@
 * Topic : [Hotel Management System](https://github.com/MoonEeSun/Data_Structure/tree/main/Semi%20Project)
 * Used Data Structure : Linked List
 * Option : Visitor mode / Administrator mode
-* Function : Add(Booking / Check-in), Delete(Check-out), Search(name/room number/region), Print(specific/all visitor/Room Status)
+* Function
+  1. Add(Booking / Check-in)
+  2. Delete(Check-out)
+  3. Search(name/room number/region)
+  4. Print(specific/all visitor/Room Status)
